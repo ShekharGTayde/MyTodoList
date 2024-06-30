@@ -1,0 +1,27 @@
+#root {
+    background-image: url("C:\Users\shekh\OneDrive\Desktop\WEB DEVELOPMENT\PRACTICE\todos-list\images\back.png");
+    border: 2px solid black;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 412px) {
+   
+    #root {
+        background-image: url("C:\Users\shekh\OneDrive\Desktop\WEB DEVELOPMENT\PRACTICE\todos-list\images\back.png");
+        border: 2px solid black;
+        width: 100%;
+        margin: 10px;
+    }
+    
+    .logo {
+        width: auto;
+        height: auto;
+    }
+    
+    
+    
+    
+    
+}
