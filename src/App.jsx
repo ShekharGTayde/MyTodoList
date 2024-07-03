@@ -49,6 +49,7 @@ function App() {
   return (
     <>
       
+      
       <Header title="My Todos List" searchBar={false} />
       {/* Pass addTodo function to AddTodo component */}
       <AddTodo addTodo={addTodo} />

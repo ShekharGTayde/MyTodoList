@@ -1,5 +1,5 @@
 #root {
-    background-image: url("C:\Users\shekh\OneDrive\Desktop\WEB DEVELOPMENT\PRACTICE\todos-list\images\back.png");
+    background-color: #ACC8E5;
     border: 2px solid black;
     width: 50%;
     margin-left: 25%;
@@ -9,7 +9,7 @@
 @media screen and (max-width: 412px) {
    
     #root {
-        background-image: url("C:\Users\shekh\OneDrive\Desktop\WEB DEVELOPMENT\PRACTICE\todos-list\images\back.png");
+        background-color: #ACC8E5;
         border: 2px solid black;
         width: 100%;
         margin: 10px;

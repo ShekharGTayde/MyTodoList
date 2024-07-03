@@ -40,7 +40,7 @@ return (
             <input type="text" className="form-control" value={title}
                 placeholder='Add Your Todo Here...'
                 onChange={(e) => { setTitle(e.target.value) }} id="title" aria-describedby="emailHelp" style={formControlStyle} />
-            <button type="submit" className="btn  btn-success" style={btnBtnSuccess}>Add Todo</button >
+            <button type="submit" className="btn  btn-success" style={btnBtnSuccess}>Add </button >
 
 
 

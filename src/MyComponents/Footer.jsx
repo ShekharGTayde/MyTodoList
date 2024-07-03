@@ -4,11 +4,11 @@ export default function Footer() {
   let footerStyle={
     position: "relative",
     marginTop:"69vh",
-    backbackgroundColor:" #605f5f"
+    backgroundColor:" #112A46 "
   }
   return (
     
-      <footer className='bg-dark text-light py-3' style={footerStyle}>
+      <footer className='text-light py-3' style={footerStyle}>
         <p className="text-center">Copyright &copy; MyTodoList.com
 
         </p>
