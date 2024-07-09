@@ -18,7 +18,7 @@ export default function AddTodo({ addTodo }) {
 
 
     let formControlStyle = {
-        width: "fit-content",
+        width: "77%",
         display: "inline-flex",
         borderRadius:"10px"
     }
