@@ -24,7 +24,7 @@ export default function Header(props) {
       <nav className="navbar navbar-expand-lg navbar-light " >
       <div className="container-fluid">
         <a className="navbar-brand" href="#" style={navbarBrandStyle}>{props.title}</a>
-        <img className="logo" src="images\list.png" alt=" " style={logoStyle} />
+        <img className="logo" src="images/list.png" alt=" " style={logoStyle} />
 
         <span className="navbar-toggler-icon"></span>
 

@@ -1,12 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+}
 #root {
+  
     background-color: #ACC8E5;
     border: 2px solid black;
     width: 50%;
-    margin-left: 25%;
+    
     margin-top: 10px;
 }
 
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 480px) {
    
     #root {
         background-color: #ACC8E5;
@@ -16,8 +21,8 @@
     }
     
     .logo {
-        width: auto;
-        height: auto;
+        width: 50px;
+        height: 50px;
     }
     
     
