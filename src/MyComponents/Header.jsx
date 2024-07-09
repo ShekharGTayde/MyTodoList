@@ -7,7 +7,7 @@ export default function Header(props) {
 
   }
   let container2Style = {
-    width: " 50%",
+    width: "fit-content",
     display: "ruby-text",
     fontFamily: 'fantasy',
     textDecoration: 'underline',
